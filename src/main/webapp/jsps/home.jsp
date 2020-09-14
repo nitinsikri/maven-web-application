@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Nitin Solutions.</h1>
-<h1 align="center"> Nitin is teaching jenkings. Please rate him on 1 to 5 . 5 is consider as good  raiting. My number is 8527936196</h1>
+<h1 align="center"> Nitin is very teacher jenkings. Please rate him on 1 to 5 . 5 is consider as good  raiting. My number is 8527936196</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
